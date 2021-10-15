@@ -20,11 +20,12 @@ Hello My name is Chae Yeon
  월마다의 기록을 한 눈에 볼 수 있어 편리합니다. 물론 같이 식습관을 공유할 친구가 있다면 더욱 좋겠죠?
  다같이 건강한 식습관을 길러봐요.
 
-## 5주차 과제
+## 5주차 과제 : 이미지 바꾸기 버튼 구현하기
 <img src = "https://user-images.githubusercontent.com/90373243/136207264-964d5cdf-08b7-490b-9918-e922dab2210c.png" width ="200" /><img src = "https://user-images.githubusercontent.com/90373243/136207274-1f856e7e-9bff-4390-a17a-333459ebc1b7.png" width ="200" />
 
 
-## 6주차 과제
+## 6주차 과제 : 스크롤뷰 사용하기
 <img src = "https://user-images.githubusercontent.com/90373243/137474291-11ea2a4c-00a3-4db6-ac0b-f1c6682ce538.png" width ="200" /><img src = "https://user-images.githubusercontent.com/90373243/137474307-864c79ca-675b-4bbc-a4d0-741778270b08.png" width ="200" />
 <img src = "https://user-images.githubusercontent.com/90373243/137474313-01bef9d8-68bf-49ce-be11-d7f4cb6536e0.png" width ="200" /><img src = "https://user-images.githubusercontent.com/90373243/137474316-8eb37515-23cf-48d6-bba6-a7a9957f1878.png" width ="200" />
 
+## 7주차 과제 :
