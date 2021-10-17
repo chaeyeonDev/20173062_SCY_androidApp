@@ -29,3 +29,8 @@ Hello My name is Chae Yeon
 <img src = "https://user-images.githubusercontent.com/90373243/137474313-01bef9d8-68bf-49ce-be11-d7f4cb6536e0.png" width ="200" /><img src = "https://user-images.githubusercontent.com/90373243/137474316-8eb37515-23cf-48d6-bba6-a7a9957f1878.png" width ="200" />
 
 ## 7주차 과제 : SMS 입력화면 만들고 글자 수 표시하기
+### SMS 입력화면
+<img src = ".png" width ="200" />
+
+### xml
+### java
