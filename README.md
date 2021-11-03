@@ -8,6 +8,7 @@ Hello My name is Chae Yeon
 ## 1주차 과제
 
 ## 2주차 과제
+<img src = "https://github.com/schaeyeon/20173062_SCY_androidApp/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_20173062_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AB.png?raw=true">
 
 ## 3주차 과제
 
