@@ -21,7 +21,8 @@ Hello My name is Chae Yeon
  다같이 건강한 식습관을 길러봐요.
 
 ## 5주차 과제 : 이미지 바꾸기 버튼 구현하기
-<img src ="/https://user-images.githubusercontent.com/90373243/136207264-964d5cdf-08b7-490b-9918-e922dab2210c.png" width ="200" /><img src = "/https://user-images.githubusercontent.com/90373243/136207274-1f856e7e-9bff-4390-a17a-333459ebc1b7.png" width ="200" />
+<img src ="https://user-images.githubusercontent.com/90373243/136207264-964d5cdf-08b7-490b-9918-e922dab2210c.png" width ="200" />
+<img src = "https://user-images.githubusercontent.com/90373243/136207274-1f856e7e-9bff-4390-a17a-333459ebc1b7.png" width ="200" />
 
 
 ## 6주차 과제 : 스크롤뷰 사용하기
@@ -41,3 +42,5 @@ Hello My name is Chae Yeon
 ## 9주차 과제 
 <img width="403" alt="스크린샷 2021-11-04 오전 12 25 26" src="./https://user-images.githubusercontent.com/90373243/140093221-745469af-0a66-49b5-80c1-a783bf388d0b.png">
 ![image](<img width="403" alt="9주차" src="https://user-images.githubusercontent.com/90373243/140094280-11b55398-eaf3-42ed-9c0b-98f9f91545ba.png">)
+<img src = "https://user-images.githubusercontent.com/90373243/140094280-11b55398-eaf3-42ed-9c0b-98f9f91545ba.png" width ="200" />
+
