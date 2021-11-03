@@ -40,4 +40,5 @@ Hello My name is Chae Yeon
 
 ## 9주차 과제 
 <img width="403" alt="스크린샷 2021-11-04 오전 12 25 26" src="./https://user-images.githubusercontent.com/90373243/140093221-745469af-0a66-49b5-80c1-a783bf388d0b.png">
-![image](https://user-images.githubusercontent.com/90373243/140093221-745469af-0a66-49b5-80c1-a783bf388d0b.png)
+![image](<img width="403" alt="9주차" src="https://user-images.githubusercontent.com/90373243/140094280-11b55398-eaf3-42ed-9c0b-98f9f91545ba.png">
+.png)
