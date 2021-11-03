@@ -41,4 +41,3 @@ Hello My name is Chae Yeon
 
 ## 9주차 과제
 <img src = "https://user-images.githubusercontent.com/90373243/140094280-11b55398-eaf3-42ed-9c0b-98f9f91545ba.png" width ="200" />
-
