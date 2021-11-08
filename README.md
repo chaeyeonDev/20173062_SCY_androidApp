@@ -42,3 +42,9 @@ Hello My name is Chae Yeon
 
 ## 9주차 과제
 <img src = "https://user-images.githubusercontent.com/90373243/140094280-11b55398-eaf3-42ed-9c0b-98f9f91545ba.png" width ="200" />
+
+## 10주차 과제
+<img src = "https://user-images.githubusercontent.com/90373243/140702987-bd1248ad-09a5-4823-a2a5-edbe55cd0c69.png" width ="200" />
+<img src = "https://user-images.githubusercontent.com/90373243/140702901-66876012-4146-4eb7-8c10-b16a8e1c3d67.png" width ="200" />
+
+
