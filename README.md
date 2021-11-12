@@ -40,7 +40,7 @@ Hello My name is Chae Yeon
 ### java
 <img src ="https://user-images.githubusercontent.com/90373243/137630685-6d5260b7-7d20-4389-86e2-c59d9491331e.png" width ="200" /><img src = "https://user-images.githubusercontent.com/90373243/137630688-1dd0dce6-70b2-4da9-a776-2ed0394c2794.png" width ="200" />
 
-## 9주차 과제 : 드로어블 만
+## 9주차 과제 : 드로어블 만들기 
 <img src = "https://user-images.githubusercontent.com/90373243/140094280-11b55398-eaf3-42ed-9c0b-98f9f91545ba.png" width ="200" />
 
 ## 10주차 과제 : 여러 화면 만들고, 화면 간 전환하기
