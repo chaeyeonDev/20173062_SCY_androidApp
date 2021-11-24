@@ -53,6 +53,5 @@ Hello My name is Chae Yeon
 
 
 ## 12주차 과제 : 리사이클러뷰 
-<img width="401" alt="리사이클러뷰" src="https://user-images.githubusercontent.com/90373243/143273877-51cd1c2e-9d5b-4b6d-8a41-e52d191e6258.png">
-
+<img src= "https://github.com/schaeyeon/20173062_SCY_androidApp/blob/master/sewc/file/%E1%84%85%E1%85%B5%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5%E1%84%87%E1%85%B2.png" width = "200"/>
 
