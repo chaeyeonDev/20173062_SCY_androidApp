@@ -53,3 +53,4 @@ Hello My name is Chae Yeon
 
 
 ## 12주차 과제 : 리사이클러뷰 
+<img width="200" alt="리사이클러뷰" src="https://user-images.githubusercontent.com/90373243/143273877-51cd1c2e-9d5b-4b6d-8a41-e52d191e6258.png">
