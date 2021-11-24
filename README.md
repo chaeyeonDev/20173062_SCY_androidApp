@@ -47,7 +47,7 @@ Hello My name is Chae Yeon
 <img src = "https://user-images.githubusercontent.com/90373243/140702987-bd1248ad-09a5-4823-a2a5-edbe55cd0c69.png" width ="200" />
 <img src = "https://user-images.githubusercontent.com/90373243/140702901-66876012-4146-4eb7-8c10-b16a8e1c3d67.png" width ="200" />
 
-## 11주차 과제
+## 11주차 과제 : 웹으로 요청하기
 <img src = "https://user-images.githubusercontent.com/90373243/141428786-4b1662ab-26a1-4748-86a3-d9bbdec2f6e2.png" width ="200" />
 <img src = "https://user-images.githubusercontent.com/90373243/141428788-c93b0847-31e6-489c-927e-df8e1787bb94.png" width ="200" />
 
