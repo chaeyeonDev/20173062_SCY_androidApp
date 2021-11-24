@@ -32,24 +32,24 @@ Hello My name is Chae Yeon
 
 ## 7주차 과제 : SMS 입력화면 만들고 글자 수 표시하기
 ### SMS 입력화면
-<img src ="https://user-images.githubusercontent.com/90373243/137630673-9cb89df4-ef55-4bf8-a6e2-e8e153de3be1.png" width ="200" />
+<img src ="https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/7stapp.png" width ="200" />
 
 ### xml
-<img src ="https://user-images.githubusercontent.com/90373243/137630675-b9104d3e-3353-482e-9aeb-937648852fff.png" width ="200" /><img src = "https://user-images.githubusercontent.com/90373243/137630681-9ea947ca-0aef-4bfc-b73e-e148b6f7beba.png" width ="200" />
+<img src ="https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/xml1.png" width ="200" /><img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/xml2.png" width ="200" />
 
 ### java
-<img src ="https://user-images.githubusercontent.com/90373243/137630685-6d5260b7-7d20-4389-86e2-c59d9491331e.png" width ="200" /><img src = "https://user-images.githubusercontent.com/90373243/137630688-1dd0dce6-70b2-4da9-a776-2ed0394c2794.png" width ="200" />
+<img src ="https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/java1.png" width ="200" /><img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/java2.png" width ="200" />
 
 ## 9주차 과제 : 드로어블 만들기 
-<img src = "https://user-images.githubusercontent.com/90373243/140094280-11b55398-eaf3-42ed-9c0b-98f9f91545ba.png" width ="200" />
+<img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1.png" width ="200" />
 
 ## 10주차 과제 : 여러 화면 만들고, 화면 간 전환하기
-<img src = "https://user-images.githubusercontent.com/90373243/140702987-bd1248ad-09a5-4823-a2a5-edbe55cd0c69.png" width ="200" />
-<img src = "https://user-images.githubusercontent.com/90373243/140702901-66876012-4146-4eb7-8c10-b16a8e1c3d67.png" width ="200" />
+<img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/10.png" width ="200" />
+<img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/101.png" width ="200" />
 
 ## 11주차 과제 : 웹으로 요청하기
-<img src = "https://user-images.githubusercontent.com/90373243/141428786-4b1662ab-26a1-4748-86a3-d9bbdec2f6e2.png" width ="200" />
-<img src = "https://user-images.githubusercontent.com/90373243/141428788-c93b0847-31e6-489c-927e-df8e1787bb94.png" width ="200" />
+<img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/11st1.png" width ="200" />
+<img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/11st2.png" width ="200" />
 
 
 ## 12주차 과제 : 리사이클러뷰 
