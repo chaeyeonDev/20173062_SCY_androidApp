@@ -41,7 +41,8 @@ Hello My name is Chae Yeon
 <img src ="https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/java1.png" width ="200" /><img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/java2.png" width ="200" />
 
 ## 9주차 과제 : 드로어블 만들기 
-<img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1.png" width = "200" />
+<img src = 
+"https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1.png" width = "200"/>
 
 ## 10주차 과제 : 여러 화면 만들고, 화면 간 전환하기
 <img src = "https://raw.githubusercontent.com/schaeyeon/20173062_SCY_androidApp/master/sewc/file/10.png" width ="200" />
